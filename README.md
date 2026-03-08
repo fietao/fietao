@@ -1,4 +1,4 @@
-## Hi there I'm Thandpon Chutrakoon 
+## Hi there I'm Thanadon Chutrakoon 
 
 
 
