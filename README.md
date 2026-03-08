@@ -2,7 +2,7 @@
 
 
 
-#💫 About Me:
+💫 About Me:
 Hi! I'm a student currently studying an Associate of Science and planning to specialize in Data Science.<br><br>I'm interested in data analytics, machine learning, and using data to solve real-world problems. <br>Currently learning Python, SQL, and data analysis.<br><br>I'm building projects to improve my skills and gain practical experience.
 
 
