@@ -13,8 +13,6 @@ Hi! I'm a student currently studying an Associate of Science and planning to spe
 ![](https://nirzak-streak-stats.vercel.app/?user=Fietao&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fietao&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
