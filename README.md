@@ -10,9 +10,8 @@ dealers now use in production.
 
 ## 🛠 Currently building
 
-**[Course Coach](https://github.com/fietao/course-coach)** — a personalized study
-app that tracks multiple courses and recommends what to study next each day. Runs
-as an MCP server so my own AI setup can control it directly.
+**(https://github.com/fietao/Fietao-study.git)** — a personalized study
+assistance that tracks multiple courses and recommends what to study next each day.
 
 ## ⚙️ Stack
 
