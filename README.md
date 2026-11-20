@@ -10,8 +10,12 @@ dealers now use in production.
 
 ## 🛠 Currently building
 
-**(https://github.com/fietao/Fietao-study.git)** — a personalized study
-assistance that tracks multiple courses and recommends what to study next each day.
+- **Axion Flow**: team AI "recipes" that run on any model, with evals, cost limits, and human
+  review before anything is sent. (private for now)
+- **[quota-pilot](https://github.com/fietao/quota-pilot)**: tracks my AI subscriptions and spends
+  leftover quota on safe, auto-checked jobs before it resets.
+- **[Fietao-study](https://github.com/fietao/Fietao-study)**: AI study coach that tutors with
+  hints, not answers.
 
 ## ⚙️ Stack
 
